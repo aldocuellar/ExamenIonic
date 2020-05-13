@@ -1,0 +1,3 @@
+Es necesario primero ejecutar el JSON-Server con el siguiente comando
+json-server --watch API/data.json
+Y posteriormente ejecutar la aplicación
